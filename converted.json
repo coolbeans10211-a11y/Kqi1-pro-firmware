@@ -1,20 +1,15 @@
-[
-  "",
-  "{",
-  "\"status\": 0,",
-  "\"data\": {",
-  "\"updateid\": \"1\",",
-  "\"items\": [",
-  "{",
-  "\"devicetype\": \"FOC\",",
-  "\"hasnew\": true,",
-  "\"version\": \"KEE13A02\",",
-  "\"desc\": \"NIU KQi 1 Pro\",",
-  "\"model\": \"KQi1Pro\",",
-  "\"target_speed_kmh\": 64.37",
-  "}",
-  "]",
-  "}",
-  "}",
-  ""
-]
+
+{
+  "status": 0,
+  "data": {
+    "updateid": "1",
+    "items": [
+      {
+        "devicetype": "FOC",
+        "hasnew": true,
+        "version": "KEE13A02",
+        "desc": "NIU KQi 1 Pro"
+      }
+    ]
+  }
+}
